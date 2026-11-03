@@ -1,0 +1,2 @@
+tellraw @s {"text":"debug mode is turned on (NOT IMPLEMENTED)","color":"red"}
+tellraw @s {"text":"[GET LIGHT TOOLS]","color":"green","clickEvent":{"action":"run_command","value":"/function tools:get_tools"}}
